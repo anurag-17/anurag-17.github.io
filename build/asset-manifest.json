@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a6f5ba9e.css",
+    "main.js": "/static/js/main.eb5d7e46.js",
+    "static/js/787.375f2d88.chunk.js": "/static/js/787.375f2d88.chunk.js",
+    "static/media/pexels-victor-freitas-2261477.jpg": "/static/media/pexels-victor-freitas-2261477.d0da1b03b8ebdfd5f21b.jpg",
+    "static/media/pexels-mikhail-nilov-6740044.jpg": "/static/media/pexels-mikhail-nilov-6740044.33e518c6013ce0bf695d.jpg",
+    "static/media/pexels-andrea-piacquadio-3757374.jpg": "/static/media/pexels-andrea-piacquadio-3757374.3fe76d3ca262bbac8904.jpg",
+    "static/media/pexels-pixabay-414029.jpg": "/static/media/pexels-pixabay-414029.94cb91586505c754b2de.jpg",
+    "static/media/pexels-karolina-grabowska-4498577.jpg": "/static/media/pexels-karolina-grabowska-4498577.673c6557c8065032bdec.jpg",
+    "static/media/pexels-andrea-piacquadio-3757954.jpg": "/static/media/pexels-andrea-piacquadio-3757954.24aad56753229034256a.jpg",
+    "static/media/pexels-leon-ardho-1552242.jpg": "/static/media/pexels-leon-ardho-1552242.5a075b600b8f8c10347e.jpg",
+    "static/media/01-state-of-the-art-equipment.png": "/static/media/01-state-of-the-art-equipment.4656d92adf634f029361.png",
+    "static/media/03-personal-trainers.png": "/static/media/03-personal-trainers.cd00b0c9d8cbb7d1bd85.png",
+    "static/media/05-childcare.png": "/static/media/05-childcare.3945ed633d5285a2c9cb.png",
+    "static/media/02-group-classes.png": "/static/media/02-group-classes.62bab737f3b38c1803c1.png",
+    "static/media/06-aquatic-pool.png": "/static/media/06-aquatic-pool.c818f329e9fa54660288.png",
+    "static/media/04-spa-services.png": "/static/media/04-spa-services.b200bf19bd075b606691.png",
+    "static/media/billionphotos-1891336-min.png": "/static/media/billionphotos-1891336-min.cae03e055a60bf246aef.png",
+    "static/media/billionphotos-3671911.jpg": "/static/media/billionphotos-3671911.cd40ed48a7d5040d5d28.jpg",
+    "static/media/tradmil.jpg": "/static/media/tradmil.8202649cfd5509236d39.jpg",
+    "static/media/billionphotos-1656913.jpg": "/static/media/billionphotos-1656913.05422a02a926631b5089.jpg",
+    "static/media/billionphotos-1669933.jpg": "/static/media/billionphotos-1669933.04b62c30cc81ceab2b4d.jpg",
+    "static/media/strongman.jpg": "/static/media/strongman.1c682b249f9e7f13298b.jpg",
+    "static/media/youngwomen.jpg": "/static/media/youngwomen.c3a46d6908a14b60d119.jpg",
+    "static/media/gymnastics.png": "/static/media/gymnastics.a9e8af96b4b1418dccb0.png",
+    "static/media/24-7.png": "/static/media/24-7.7a6e6e4c7b9a6b55a847.png",
+    "static/media/yoga.png": "/static/media/yoga.4340c3a633481e7202ef.png",
+    "static/media/gym.png": "/static/media/gym.c1c5cf9172cc413b5cfb.png",
+    "static/media/exercises.png": "/static/media/exercises.a8c41ba44dcad91d3ffb.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.a6f5ba9e.css.map": "/static/css/main.a6f5ba9e.css.map",
+    "main.eb5d7e46.js.map": "/static/js/main.eb5d7e46.js.map",
+    "787.375f2d88.chunk.js.map": "/static/js/787.375f2d88.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6f5ba9e.css",
+    "static/js/main.eb5d7e46.js"
+  ]
+}
